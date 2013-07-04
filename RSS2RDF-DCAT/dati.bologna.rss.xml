@@ -1,0 +1,2965 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://dati.comune.bologna.it/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:opendatacobo="http://dati.comune.bologna.it/rss/"> <channel> <title>tuttidati</title>
+ <description>OpenData del Comune di Bologna</description>
+ <link>http://dati.comune.bologna.it/</link>
+ <atom:link rel="self" href="http://dati.comune.bologna.it/tuttidati.xml" />
+ <item> <title>Risultati Elezioni Politiche 2013</title>
+ <description>Dati relativi ai risultati delle Elezioni Politiche 2013 nel Comune di Bologna.
+</description>
+ <category>risultati elezioni politiche</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/affluenza_votanti_2013_senato_repubblica_2.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/685</guid>
+ <pubDate>Mar, 26 Feb 2013 20:51:51 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2013</opendatacobo:coverage>
+</item>
+ <item> <title>Risultati Elezioni Politiche 2013</title>
+ <description>Dati relativi ai risultati delle Elezioni Politiche 2013 nel Comune di Bologna.
+</description>
+ <category>risultati elezioni politiche</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/risultati_votazioni_2013_camera_deputati_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/684</guid>
+ <pubDate>Mar, 26 Feb 2013 20:50:01 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2013</opendatacobo:coverage>
+</item>
+ <item> <title>Votanti Elezioni Politiche 2013</title>
+ <description>Dati relativi all&amp;#39;affluenza alle urne delle Elezioni Politiche 2013 nel Comune di Bologna.
+</description>
+ <category>votanti elezioni politiche</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/affluenza_votanti_2013_camera_deputati.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/682</guid>
+ <pubDate>Mar, 26 Feb 2013 20:46:44 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2013</opendatacobo:coverage>
+</item>
+ <item> <title>Votanti Elezioni Politiche 2013</title>
+ <description>Dati relativi all&amp;#39;affluenza alle urne delle Elezioni Politiche 2013 nel Comune di Bologna.
+</description>
+ <category>votanti elezioni politiche</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/affluenza_votanti_2013_senato_repubblica_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/688</guid>
+ <pubDate>Mar, 26 Feb 2013 16:08:19 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2013</opendatacobo:coverage>
+</item>
+ <item> <title>Amministrazione aperta</title>
+ <description>In attuazione al principio di trasparenza cui devono uniformarsi le pubbliche amministrazioni, come previsto dall&amp;#39;Articolo 18 - Amministrazione Aperta - del DL 22 giugno 2012 n.83 convertito dalla legge 7 agosto 2012 n.134, vengono elencati nel presente dataset gli atti amministrativi relativi a: concessione delle sovvenzioni; contributi; sussidi ed ausili finanziari alle imprese; l&amp;#39;attribuzione dei corrispettivi e dei compensi a persone, professionisti, imprese ed enti privati e comunque di vantaggi economici di qualunque genere. Il file segue un aggiornamento settimanale e comprende al suo interno anche lo storico a partire dal 1 gennaio 2013. Da questo link &amp;egrave; possibile invece seguire gli aggiornamenti settimanali &amp;quot;Amministrazione Aperta&amp;quot; per ogni mese di riferimento.
+</description>
+ <category>amministrazione aperta</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/amministrazione_aperta_al_25_02_13_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/681</guid>
+ <pubDate>Lun, 25 Feb 2013 12:59:47 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>6</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2013</opendatacobo:coverage>
+</item>
+ <item> <title>Piste ciclopedonali</title>
+ <description>Piste ciclabili e percorsi pedonali in formato cartografico.
+</description>
+ <category>mobilità</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/piste_ciclabili.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/679</guid>
+ <pubDate>Ven, 22 Feb 2013 13:50:44 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2013</opendatacobo:coverage>
+</item>
+ <item> <title>Sezioni di Censimento</title>
+ <description>Sezioni di Censimento
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/sezione_censimento_2011_zone_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/669</guid>
+ <pubDate>Mar, 12 Feb 2013 11:03:52 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Sezioni di Censimento</title>
+ <description>Sezioni di Censimento
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/sezione_censimento_2011_quartieri_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/668</guid>
+ <pubDate>Mar, 12 Feb 2013 11:01:59 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Bilancio ambientale - indicatori</title>
+ <description>I dati si riferiscono a indicatori ambientali (della citt&amp;agrave; e dell&amp;#39;ente) divisi per tipo; vengono confrontati i valori dell&amp;#39;anno con quelli dell&amp;#39;anno precedente e viene indicato il valore di riferimento normativo. 
+</description>
+ <category>bilancio ambientale</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/indicatori_contesto_ente.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/665</guid>
+ <pubDate>Mar, 05 Feb 2013 10:39:35 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Bilancio ambientale - indicatori</title>
+ <description>I dati si riferiscono a indicatori ambientali (della citt&amp;agrave; e dell&amp;#39;ente) divisi per tipo; vengono confrontati i valori dell&amp;#39;anno con quelli dell&amp;#39;anno precedente e viene indicato il valore di riferimento normativo. 
+</description>
+ <category>bilancio ambientale</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/indicatori_contesto_bologna_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/664</guid>
+ <pubDate>Mar, 05 Feb 2013 10:36:31 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Bilancio ambientale - indicatori</title>
+ <description>I dati si riferiscono a indicatori ambientali (della citt&amp;agrave; e dell&amp;#39;ente) divisi per tipo; vengono confrontati i valori dell&amp;#39;anno con quelli dell&amp;#39;anno precedente e viene indicato il valore di riferimento normativo. 
+</description>
+ <category>bilancio ambientale</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/bilancio_ambientale_consuntivo_2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/663</guid>
+ <pubDate>Mar, 05 Feb 2013 10:32:18 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Pubblici esercizi</title>
+ <description>Pubblici esercizi di somministrazione di alimenti e bevande: per attivit&amp;agrave; di somministrazione di alimenti e bevande si intende la vendita di alimenti e bevande, non alcooliche e alcooliche di qualsiasi gradazione, per il loro consumo sul posto in locali o superfici aperte al pubblico appositamente attrezzati.
+Per maggiori informazioni clicca qui
+&amp;nbsp;
+&amp;nbsp;
+</description>
+ <category>pubblici esercizi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/04_03_02.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/646</guid>
+ <pubDate>Gio, 31 Gen 2013 16:22:13 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Commercio in sede fissa</title>
+ <description>Gli esercizi commerciali si distinguono in differenti categorie e tipologie:
+
+	
+		esercizio di vicinato: un esercizio commerciale in cui si effettua la vendita direttamente al consumatore finale, che abbia una superficie di vendita non superiore a 150 mq nei Comuni con popolazione residente inferiore a 10.000 abitanti e a 250 mq nei Comuni con oltre 10.000 abitanti
+	
+		media struttura di vendita al dettaglio: un esercizio commerciale in cui si effettua la vendita direttamente al consumatore finale e che abbia una superficie di vendita compresa tra i 151 ed i 1500 mq nei Comuni con popolazione residente inferiore a 10.000 abitanti e tra i 251 ed i 2500 mq nei Comuni con popolazione residente superiore ai 10.000 abitanti
+	
+		grande struttura di vendita al dettaglio: un esercizio commerciale in cui si effettua la vendita direttamente al consumatore finale e che abbia una superficie di vendita superiore ai 1500 mq nei comuni con 10.000 abitanti ed ai 2500 mq nei Comuni con oltre 10.000 abitanti
+
+Per maggiori informazioni clicca qui
+Sono pubblicati inoltre
+
+	
+		il sistema di vendita della stampa quotidiana e periodica che si articola, su tutto il territorio nazionale, in punti vendita esclusivi (edicole) e non esclusivi (per maggiori informazioni clicca qui)
+	
+		il centro di telefonia, o &amp;ldquo;phone center e/o internet point&amp;rdquo;, che &amp;egrave; un esercizio aperto al pubblico che fornisce, anche in abbinamento ad altre attivit&amp;agrave;, servizi telefonici e telematici, mettendo a disposizione apparecchi telefonici, personal computer o altri terminali telematici (per maggiori informazioni clicca qui)
+
+</description>
+ <category>commercio in sede fissa</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/04_01_02.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/645</guid>
+ <pubDate>Gio, 31 Gen 2013 15:57:50 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Pubblici esercizi</title>
+ <description>Pubblici esercizi di somministrazione di alimenti e bevande: per attivit&amp;agrave; di somministrazione di alimenti e bevande si intende la vendita di alimenti e bevande, non alcooliche e alcooliche di qualsiasi gradazione, per il loro consumo sul posto in locali o superfici aperte al pubblico appositamente attrezzati.
+Per maggiori informazioni clicca qui
+&amp;nbsp;
+&amp;nbsp;
+</description>
+ <category>pubblici esercizi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/04_03_01_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/644</guid>
+ <pubDate>Gio, 31 Gen 2013 15:46:40 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Commercio su area pubblica</title>
+ <description>Si intende per commercio su area pubblica l&amp;rsquo;attivit&amp;agrave; di vendita di merci al dettaglio e la somministrazione di alimenti e bevande effettuata sulle aree pubbliche. Il commercio su aree pubbliche pu&amp;ograve; essere svolto su posteggi dati in concessione per 10 anni ovvero su qualsiasi area purch&amp;eacute; in forma itinerante.
+Per maggiori informazioni clicca qui
+&amp;nbsp;
+</description>
+ <category>commercio su area pubblica</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/04_02_02_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/643</guid>
+ <pubDate>Gio, 31 Gen 2013 15:43:02 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Commercio in sede fissa</title>
+ <description>Gli esercizi commerciali si distinguono in differenti categorie e tipologie:
+
+	
+		esercizio di vicinato: un esercizio commerciale in cui si effettua la vendita direttamente al consumatore finale, che abbia una superficie di vendita non superiore a 150 mq nei Comuni con popolazione residente inferiore a 10.000 abitanti e a 250 mq nei Comuni con oltre 10.000 abitanti
+	
+		media struttura di vendita al dettaglio: un esercizio commerciale in cui si effettua la vendita direttamente al consumatore finale e che abbia una superficie di vendita compresa tra i 151 ed i 1500 mq nei Comuni con popolazione residente inferiore a 10.000 abitanti e tra i 251 ed i 2500 mq nei Comuni con popolazione residente superiore ai 10.000 abitanti
+	
+		grande struttura di vendita al dettaglio: un esercizio commerciale in cui si effettua la vendita direttamente al consumatore finale e che abbia una superficie di vendita superiore ai 1500 mq nei comuni con 10.000 abitanti ed ai 2500 mq nei Comuni con oltre 10.000 abitanti
+
+Per maggiori informazioni clicca qui
+Sono pubblicati inoltre
+
+	
+		il sistema di vendita della stampa quotidiana e periodica che si articola, su tutto il territorio nazionale, in punti vendita esclusivi (edicole) e non esclusivi (per maggiori informazioni clicca qui)
+	
+		il centro di telefonia, o &amp;ldquo;phone center e/o internet point&amp;rdquo;, che &amp;egrave; un esercizio aperto al pubblico che fornisce, anche in abbinamento ad altre attivit&amp;agrave;, servizi telefonici e telematici, mettendo a disposizione apparecchi telefonici, personal computer o altri terminali telematici (per maggiori informazioni clicca qui)
+
+</description>
+ <category>commercio in sede fissa</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/04_01_00_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/639</guid>
+ <pubDate>Gio, 31 Gen 2013 11:29:12 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Attività dei nuclei di quartiere della polizia municipale</title>
+ <description>Riepilogo delle attivit&amp;agrave; di controllo del territorio
+</description>
+ <category>attività di quartiere</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/statisticant_2012.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/637</guid>
+ <pubDate>Mar, 29 Gen 2013 11:03:49 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Attività dei nuclei di quartiere della polizia municipale</title>
+ <description>Riepilogo delle attivit&amp;agrave; di controllo del territorio
+</description>
+ <category>attività di quartiere</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/statisticant_2011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/634</guid>
+ <pubDate>Mar, 29 Gen 2013 10:41:37 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Commercio su area pubblica</title>
+ <description>Si intende per commercio su area pubblica l&amp;rsquo;attivit&amp;agrave; di vendita di merci al dettaglio e la somministrazione di alimenti e bevande effettuata sulle aree pubbliche. Il commercio su aree pubbliche pu&amp;ograve; essere svolto su posteggi dati in concessione per 10 anni ovvero su qualsiasi area purch&amp;eacute; in forma itinerante.
+Per maggiori informazioni clicca qui
+&amp;nbsp;
+</description>
+ <category>commercio su area pubblica</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/04_02_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/632</guid>
+ <pubDate>Lun, 28 Gen 2013 15:38:32 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Personaggi in abbigliamento del Basso Medioevo</title>
+ <description>Modelli 3D di persone in abbigliamento del Basso Medioevo
+</description>
+ <category>3D personaggi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/serie_di_persone_in_abbigliamento_del_basso_medioevo_montate_su_bilboard_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/629</guid>
+ <pubDate>Sab, 26 Gen 2013 15:14:06 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Anagrafica Elette ed Eletti</title>
+ <description>Il dataset&amp;nbsp;Anagrafica Elette ed Eletti &amp;egrave; composto da due file. Il primo si riferisce all&amp;#39;elenco delle Elette e degli Eletti, mentre il secondo al Curriculum professionale e politico, nonch&amp;egrave; alla dichiarazione dei redditi e la situazione patrimoniale di ciascuno. Visita anche la pagina Anagrafe pubblica&amp;nbsp;su iperbole&amp;nbsp;per ulteriori informazioni.
+</description>
+ <category>anagrafica degli eletti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/anagrafica_eletti_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/626</guid>
+ <pubDate>Mer, 23 Gen 2013 17:56:18 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Graduatoria per l&amp;#039;assegnazione di alloggi di Edilizia Residenziale Pubblica</title>
+ <description>Graduatoria per l&amp;#39;assegnazione di alloggi di Edilizia Residenziale Pubblica
+</description>
+ <category>servizi abitativi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/grad_erp9_definitiva_opendata.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/625</guid>
+ <pubDate>Mer, 23 Gen 2013 11:23:19 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Portici Centro Storico</title>
+ <description>Portici all&amp;rsquo;interno dei viali di circonvallazione
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/portici_utm-ed50_shp_1.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/620</guid>
+ <pubDate>Mer, 16 Gen 2013 10:13:04 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Famiglie residenti per sezione di censimento e ampiezza della famiglia</title>
+ <description>I dati si riferiscono per ciascuna sezione di censimento alle&amp;nbsp;famiglie residenti per ampiezza al 31 dicembre 2011.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per individuare correttamente le aree di interesse &amp;egrave; necessario consultare il sito alla voce - Individua le sezioni sulle mappe o sullo stradario - clicca qui
+</description>
+ <category>famiglie</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/famiglie_componentixsez_2011_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/614</guid>
+ <pubDate>Mer, 19 Dic 2012 13:03:17 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Sezioni di Censimento</title>
+ <description>Sezioni di Censimento
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/sez11.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/613</guid>
+ <pubDate>Mar, 18 Dic 2012 12:56:03 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Animazioni 3D Portici di San Luca</title>
+ <description>Il portico di San Luca dal punto di vista di un giovane che scende su uno skateboard. Modelli creati da Cineca per il corto di animazione 3D &amp;ldquo;Apa l&amp;rsquo;Etrusco alla scoperta di Bologna&amp;rdquo;, visibile al Museo della Storia di Bologna.&amp;nbsp;
+</description>
+ <category>3D monumenti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/scena_4_il_portico_di_san_luca.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/592</guid>
+ <pubDate>Sab, 15 Dic 2012 16:45:39 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>4</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Animazioni 3D Portici di San Luca</title>
+ <description>Il portico di San Luca dal punto di vista di un giovane che scende su uno skateboard. Modelli creati da Cineca per il corto di animazione 3D &amp;ldquo;Apa l&amp;rsquo;Etrusco alla scoperta di Bologna&amp;rdquo;, visibile al Museo della Storia di Bologna.&amp;nbsp;
+</description>
+ <category>3D monumenti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/scena_3_il_portico_di_san_luca.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/591</guid>
+ <pubDate>Sab, 15 Dic 2012 16:37:06 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Animazioni 3D Portici di San Luca</title>
+ <description>Il portico di San Luca dal punto di vista di un giovane che scende su uno skateboard. Modelli creati da Cineca per il corto di animazione 3D &amp;ldquo;Apa l&amp;rsquo;Etrusco alla scoperta di Bologna&amp;rdquo;, visibile al Museo della Storia di Bologna.&amp;nbsp;
+</description>
+ <category>3D monumenti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/scena_2_il_portico_di_san_luca.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/590</guid>
+ <pubDate>Sab, 15 Dic 2012 16:25:49 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Animazioni 3D Portici di San Luca</title>
+ <description>Il portico di San Luca dal punto di vista di un giovane che scende su uno skateboard. Modelli creati da Cineca per il corto di animazione 3D &amp;ldquo;Apa l&amp;rsquo;Etrusco alla scoperta di Bologna&amp;rdquo;, visibile al Museo della Storia di Bologna.&amp;nbsp;
+</description>
+ <category>3D monumenti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/scena_1_il_portico_di_san_luca_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/589</guid>
+ <pubDate>Sab, 15 Dic 2012 16:17:12 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Redditi per area statistica</title>
+ <description>I dati si riferiscono, per ogni area statistica, ai redditi dei contribuenti bolognesi dichiarati nell&amp;#39;anno d&amp;#39;imposta.
+Le informazioni si riferiscono al numero contribuenti, al reddito imponibile ai fini irpef e al reddito imponibile ai fini dell&amp;#39;addizionale irpef.
+Elaborazione a cura del Dipartimento Programmazione.
+</description>
+ <category>redditi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/redditi_2010_per_area_statistica_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/586</guid>
+ <pubDate>Ven, 14 Dic 2012 09:07:46 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>Presenze e votazioni</title>
+ <description>Il dataset si riferisce alle presenze e alle votazioni delle Elette e degli Eletti. I dati attualmente pubblicati vanno da inizio del mandato fino al terzo trimestre 2012. Non sono comprese le verifiche del numero legale e le votazioni non espresse con il sistema elettronico.
+</description>
+ <category>presenze e votazioni</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/report_presenze_01-07-2012_30-09-2012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/584</guid>
+ <pubDate>Gio, 13 Dic 2012 16:02:40 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Presenze e votazioni</title>
+ <description>Il dataset si riferisce alle presenze e alle votazioni delle Elette e degli Eletti. I dati attualmente pubblicati vanno da inizio del mandato fino al terzo trimestre 2012. Non sono comprese le verifiche del numero legale e le votazioni non espresse con il sistema elettronico.
+</description>
+ <category>presenze e votazioni</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/report_presenze_01-04-2012_30-06-2012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/583</guid>
+ <pubDate>Gio, 13 Dic 2012 16:01:49 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Presenze e votazioni</title>
+ <description>Il dataset si riferisce alle presenze e alle votazioni delle Elette e degli Eletti. I dati attualmente pubblicati vanno da inizio del mandato fino al terzo trimestre 2012. Non sono comprese le verifiche del numero legale e le votazioni non espresse con il sistema elettronico.
+</description>
+ <category>presenze e votazioni</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/report_presenze_01-01-2012_31-03-2012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/582</guid>
+ <pubDate>Gio, 13 Dic 2012 16:00:41 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Presenze e votazioni</title>
+ <description>Il dataset si riferisce alle presenze e alle votazioni delle Elette e degli Eletti. I dati attualmente pubblicati vanno da inizio del mandato fino al terzo trimestre 2012. Non sono comprese le verifiche del numero legale e le votazioni non espresse con il sistema elettronico.
+</description>
+ <category>presenze e votazioni</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/report_presenze_01-06-2011_31-12-2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/581</guid>
+ <pubDate>Gio, 13 Dic 2012 15:59:44 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Patrimonio immobiliare</title>
+ <description>Elenco degli immobili di propriet&amp;agrave; dell&amp;#39;Amministrazione Comunale e di quelli di propriet&amp;agrave; di altri enti pubblici nella disponibilit&amp;agrave; del Comune di Bologna
+</description>
+ <category>patrimonio immobiliare</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/patrimonio_20111231.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/579</guid>
+ <pubDate>Mer, 12 Dic 2012 10:47:22 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>IMU</title>
+ <description>Imposta Municipale Propria
+</description>
+ <category>entrate</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/imu_al20121130.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/576</guid>
+ <pubDate>Mar, 11 Dic 2012 11:38:46 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Progetti per l&amp;#039;Impresa</title>
+ <description>I Progetti &amp;quot;Mambo&amp;quot; per la creazione e lo sviluppo d&amp;#39;impresa a Bologna
+</description>
+ <category>agevolazioni finanziarie</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/progetti_finanziati_ottobre2012.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/573</guid>
+ <pubDate>Ven, 07 Dic 2012 09:25:04 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente immigrata per sezione di censimento e luogo di immigrazione</title>
+ <description>I dati si riferiscono per ciascuna sezione di censimento alla popolazione residente a Bologna immigrata per luogo di immigrazione (per grandi ripartizioni geografiche) e sesso. &amp;nbsp;
+Sono disponibili 3 dataset (popolazione totale, maschi e femmine).
+Nella popolazione immigrata sono incluse tutte le persone provenienti da altri comuni italiani e dall&amp;#39;estero e anche le persone precedentemente residenti, emigrate poi immigrate.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni clicca qui
+&amp;nbsp;
+</description>
+ <category>immigrati</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/immigratisezioni_2011_1.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/564</guid>
+ <pubDate>Lun, 03 Dic 2012 14:33:23 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Budget del Consiglio Comunale</title>
+ <description>Il dataset del Budget del Consiglio Comunale viene aggiornato annualmente ed &amp;egrave; formato dal Rendiconto e dal Budget del Consiglio. Tali dati sono raccolti in unici file distinti per anno (2011 e 2012) e&amp;nbsp;tipologia (Rendiconto e Budget).
+</description>
+ <category>budget degli organismi politici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/consiglio_report_budget_anno_2012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/563</guid>
+ <pubDate>Gio, 29 Nov 2012 13:45:03 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Budget del Consiglio Comunale</title>
+ <description>Il dataset del Budget del Consiglio Comunale viene aggiornato annualmente ed &amp;egrave; formato dal Rendiconto e dal Budget del Consiglio. Tali dati sono raccolti in unici file distinti per anno (2011 e 2012) e&amp;nbsp;tipologia (Rendiconto e Budget).
+</description>
+ <category>budget degli organismi politici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/consiglio_report_budget_anno_2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/562</guid>
+ <pubDate>Gio, 29 Nov 2012 13:44:03 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Budget del Consiglio Comunale</title>
+ <description>Il dataset del Budget del Consiglio Comunale viene aggiornato annualmente ed &amp;egrave; formato dal Rendiconto e dal Budget del Consiglio. Tali dati sono raccolti in unici file distinti per anno (2011 e 2012) e&amp;nbsp;tipologia (Rendiconto e Budget).
+</description>
+ <category>budget degli organismi politici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/consiglio_rendiconto_anno_2012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/561</guid>
+ <pubDate>Gio, 29 Nov 2012 13:41:51 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Budget del Consiglio Comunale</title>
+ <description>Il dataset del Budget del Consiglio Comunale viene aggiornato annualmente ed &amp;egrave; formato dal Rendiconto e dal Budget del Consiglio. Tali dati sono raccolti in unici file distinti per anno (2011 e 2012) e&amp;nbsp;tipologia (Rendiconto e Budget).
+</description>
+ <category>budget degli organismi politici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/consiglio_rendiconto_anno_2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/560</guid>
+ <pubDate>Gio, 29 Nov 2012 13:37:46 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Anagrafica Elette ed Eletti</title>
+ <description>Il dataset&amp;nbsp;Anagrafica Elette ed Eletti &amp;egrave; composto da due file. Il primo si riferisce all&amp;#39;elenco delle Elette e degli Eletti, mentre il secondo al Curriculum professionale e politico, nonch&amp;egrave; alla dichiarazione dei redditi e la situazione patrimoniale di ciascuno. Visita anche la pagina Anagrafe pubblica&amp;nbsp;su iperbole&amp;nbsp;per ulteriori informazioni.
+</description>
+ <category>anagrafica degli eletti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/elenco_eletti_ed_elette_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/554</guid>
+ <pubDate>Mar, 27 Nov 2012 16:09:37 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Compensi percepiti dalle Elette e dagli Eletti</title>
+ <description>Il dataset dei&amp;nbsp;Compensi percepiti dalle Elette e dagli Eletti del Comune di Bologna&amp;nbsp;si riferisce al periodo di inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati ogni trimestre.&amp;nbsp;
+</description>
+ <category>compensi percepiti dal Comune di Bologna</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/compensi_3deg_trimestre_2012.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/553</guid>
+ <pubDate>Mar, 27 Nov 2012 16:02:59 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Compensi percepiti dalle Elette e dagli Eletti</title>
+ <description>Il dataset dei&amp;nbsp;Compensi percepiti dalle Elette e dagli Eletti del Comune di Bologna&amp;nbsp;si riferisce al periodo di inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati ogni trimestre.&amp;nbsp;
+</description>
+ <category>compensi percepiti dal Comune di Bologna</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/compensi_2deg_trimestre_2012__0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/552</guid>
+ <pubDate>Mar, 27 Nov 2012 15:58:28 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Compensi percepiti dalle Elette e dagli Eletti</title>
+ <description>Il dataset dei&amp;nbsp;Compensi percepiti dalle Elette e dagli Eletti del Comune di Bologna&amp;nbsp;si riferisce al periodo di inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati ogni trimestre.&amp;nbsp;
+</description>
+ <category>compensi percepiti dal Comune di Bologna</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/compensi_1deg_trimestre_2012__0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/551</guid>
+ <pubDate>Mar, 27 Nov 2012 15:56:21 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Compensi percepiti dalle Elette e dagli Eletti</title>
+ <description>Il dataset dei&amp;nbsp;Compensi percepiti dalle Elette e dagli Eletti del Comune di Bologna&amp;nbsp;si riferisce al periodo di inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati ogni trimestre.&amp;nbsp;
+</description>
+ <category>compensi percepiti dal Comune di Bologna</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/consuntivo_compensi_2011_al_27.1.2012__0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/550</guid>
+ <pubDate>Mar, 27 Nov 2012 15:53:47 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Budget della Giunta Comunale</title>
+ <description>Il dataset del riepilogo del Budget della Giunta Comunale viene aggiornato annualmente.&amp;nbsp;I dati pubblicati si riferiscono al 2011 e al 2012.&amp;nbsp;
+</description>
+ <category>budget degli organismi politici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/giunta_riepilogo_ae_anno_2012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/549</guid>
+ <pubDate>Mar, 27 Nov 2012 15:34:15 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Budget della Giunta Comunale</title>
+ <description>Il dataset del riepilogo del Budget della Giunta Comunale viene aggiornato annualmente.&amp;nbsp;I dati pubblicati si riferiscono al 2011 e al 2012.&amp;nbsp;
+</description>
+ <category>budget degli organismi politici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/giunta_riepilogo_ae_anno_2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/548</guid>
+ <pubDate>Mar, 27 Nov 2012 15:33:14 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Interrogazioni</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interrogazioni.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interrogazioni-20120701-20120930_20121026140034_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/547</guid>
+ <pubDate>Mar, 27 Nov 2012 15:14:48 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere e Ordini del giorno del Consiglio</title>
+ <description>Il dataset Delibere e Ordini del giorno del Consiglio Comunale&amp;nbsp;si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/delibereconsiglio-20120701-20120930_20121025163402_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/546</guid>
+ <pubDate>Mar, 27 Nov 2012 15:13:50 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere della Giunta Comunale</title>
+ <description>Il dataset delle Delibere della Giunta Comunale si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/deliberegiunta-20120701-20120930_20121025163405_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/545</guid>
+ <pubDate>Mar, 27 Nov 2012 15:12:36 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande attualità a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte orali alle Domande di attualit&amp;agrave;.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarisporale-20120701-20120930_20121026082214_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/544</guid>
+ <pubDate>Mar, 27 Nov 2012 15:11:27 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di attualità a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte scritte alle Domande di attualita.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarispscritta-20120701-20120930_20121026082213_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/543</guid>
+ <pubDate>Mar, 27 Nov 2012 15:10:10 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta orale.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerisporale-20120701-20120930_20121026135536_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/542</guid>
+ <pubDate>Mar, 27 Nov 2012 15:08:40 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta scritta.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerispscritta-20120701-20120930_20121026135535_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/541</guid>
+ <pubDate>Mar, 27 Nov 2012 15:07:26 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Atti di quartiere dell&amp;#039;attività nel corso del mandato</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano gli Atti di Quartiere.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/attidiquartiere-20120701-20120930_20121026161717_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/540</guid>
+ <pubDate>Mar, 27 Nov 2012 15:06:04 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interrogazioni</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interrogazioni.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interrogazioni-20120401-20120630_20121026140000_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/539</guid>
+ <pubDate>Mar, 27 Nov 2012 14:02:22 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere e Ordini del giorno del Consiglio</title>
+ <description>Il dataset Delibere e Ordini del giorno del Consiglio Comunale&amp;nbsp;si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/delibereconsiglio-20120401-20120630_20121025163343_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/538</guid>
+ <pubDate>Mar, 27 Nov 2012 14:01:22 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere della Giunta Comunale</title>
+ <description>Il dataset delle Delibere della Giunta Comunale si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/deliberegiunta-20120401-20120630_20121025163346_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/537</guid>
+ <pubDate>Mar, 27 Nov 2012 14:00:19 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande attualità a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte orali alle Domande di attualit&amp;agrave;.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarisporale-20120401-20120630_20121026082154_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/536</guid>
+ <pubDate>Mar, 27 Nov 2012 13:58:58 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di attualità a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte scritte alle Domande di attualita.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarispscritta-20120401-20120630_20121026082153_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/535</guid>
+ <pubDate>Mar, 27 Nov 2012 13:57:31 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta orale.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerisporale-20120401-20120630_20121026135522_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/534</guid>
+ <pubDate>Mar, 27 Nov 2012 13:55:35 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta scritta.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerispscritta-20120401-20120630_20121026135520_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/533</guid>
+ <pubDate>Mar, 27 Nov 2012 13:51:57 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Atti di quartiere dell&amp;#039;attività nel corso del mandato</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano gli Atti di Quartiere.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/attidiquartiere-20120401-20120630_20121030141730_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/532</guid>
+ <pubDate>Mar, 27 Nov 2012 13:50:50 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interrogazioni</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interrogazioni.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interrogazioni-20120101-20120331_20121026135903_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/531</guid>
+ <pubDate>Mar, 27 Nov 2012 13:45:23 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere e Ordini del giorno del Consiglio</title>
+ <description>Il dataset Delibere e Ordini del giorno del Consiglio Comunale&amp;nbsp;si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/delibereconsiglio-20120101-20120331_20121025163315_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/530</guid>
+ <pubDate>Mar, 27 Nov 2012 13:44:26 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere della Giunta Comunale</title>
+ <description>Il dataset delle Delibere della Giunta Comunale si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/deliberegiunta-20120101-20120331_20121025163318_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/529</guid>
+ <pubDate>Mar, 27 Nov 2012 13:43:16 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande attualità a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte orali alle Domande di attualit&amp;agrave;.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarisporale-20120101-20120331_20121026082055.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/528</guid>
+ <pubDate>Mar, 27 Nov 2012 13:42:11 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di attualità a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte scritte alle Domande di attualita.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarispscritta-20120101-20120331_20121026082054_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/527</guid>
+ <pubDate>Mar, 27 Nov 2012 13:40:40 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta orale.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerisporale-20120101-20120331_20121026135501_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/526</guid>
+ <pubDate>Mar, 27 Nov 2012 13:39:17 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta scritta.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerispscritta-20120101-20120331_20121026135459_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/525</guid>
+ <pubDate>Mar, 27 Nov 2012 13:38:04 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Atti di quartiere dell&amp;#039;attività nel corso del mandato</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano gli Atti di Quartiere.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/attidiquartiere-20120101-20120331_20121026161557_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/524</guid>
+ <pubDate>Mar, 27 Nov 2012 13:36:54 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Interrogazioni</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interrogazioni.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interrogazioni-20110101-20111231_20121026161915_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/523</guid>
+ <pubDate>Mar, 27 Nov 2012 13:25:15 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere e Ordini del giorno del Consiglio</title>
+ <description>Il dataset Delibere e Ordini del giorno del Consiglio Comunale&amp;nbsp;si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/delibereconsiglio-20110601-20111231_20121026161316_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/522</guid>
+ <pubDate>Mar, 27 Nov 2012 13:24:18 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Delibere della Giunta Comunale</title>
+ <description>Il dataset delle Delibere della Giunta Comunale si riferisce all&amp;#39;inizio del mandato fino al terzo trimestre 2012. I dati verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/deliberegiunta-20110601-20111231_20121026161327_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/521</guid>
+ <pubDate>Mar, 27 Nov 2012 13:23:22 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Domande attualità a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte orali alle Domande di attualit&amp;agrave;.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarisporale-20110101-20111231_20121026161909_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/520</guid>
+ <pubDate>Mar, 27 Nov 2012 13:22:25 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di attualità a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le risposte scritte alle Domande di attualita.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/domandeattualiarispscritta-20110101-20111231_20121026161906_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/519</guid>
+ <pubDate>Mar, 27 Nov 2012 13:21:13 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta orale</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta orale.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerisporale-20110101-20111231_20121026161902_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/518</guid>
+ <pubDate>Mar, 27 Nov 2012 13:20:06 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Interpellanze a risposta scritta</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano le Interpellanze a risposta scritta.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.  
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/interpellanzerispscritta-20110101-20111231_20121026161857.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/517</guid>
+ <pubDate>Mar, 27 Nov 2012 13:18:54 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Atti di quartiere dell&amp;#039;attività nel corso del mandato</title>
+ <description>Tra le attivit&amp;agrave; svolte nel corso del mandato dell&amp;#39;Amministrazione Comunale figurano gli Atti di Quartiere.&amp;nbsp;I dati pubblicati si riferiscono all&amp;#39;inizio del mandato fino al terzo trimestre 2012 e verranno aggiornati su base trimestrale.&amp;nbsp;
+</description>
+ <category>attività nel corso del mandato</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/attidiquartiere-20110101-20111231_20121026161952_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/516</guid>
+ <pubDate>Mar, 27 Nov 2012 13:17:02 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Scene di una lezione Universitaria del Basso Medioevo</title>
+ <description>Modelli 3D di alcune scene di una Lezione Universitaria&amp;nbsp;
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_shot_09_03_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/507</guid>
+ <pubDate>Sab, 24 Nov 2012 14:08:54 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Scene di una lezione Universitaria del Basso Medioevo</title>
+ <description>Modelli 3D di alcune scene di una Lezione Universitaria&amp;nbsp;
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_shot_08_02_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/506</guid>
+ <pubDate>Sab, 24 Nov 2012 14:00:08 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Scene di una lezione Universitaria del Basso Medioevo</title>
+ <description>Modelli 3D di alcune scene di una Lezione Universitaria&amp;nbsp;
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_shot_08_01_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/505</guid>
+ <pubDate>Sab, 24 Nov 2012 13:54:38 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Studente Università del Basso Medioevo</title>
+ <description>Modelli 3D Studente Universit&amp;agrave; di Bologna nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_comparse_studente3b_studente3b.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/504</guid>
+ <pubDate>Sab, 24 Nov 2012 13:03:37 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>6</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Studente Università del Basso Medioevo</title>
+ <description>Modelli 3D Studente Universit&amp;agrave; di Bologna nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_comparse_studente3_studente3_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/503</guid>
+ <pubDate>Sab, 24 Nov 2012 13:00:50 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>5</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Studente Università del Basso Medioevo</title>
+ <description>Modelli 3D Studente Universit&amp;agrave; di Bologna nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_comparse_studente2b_studente2b_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/502</guid>
+ <pubDate>Sab, 24 Nov 2012 12:59:17 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>4</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Studente Università del Basso Medioevo</title>
+ <description>Modelli 3D Studente Universit&amp;agrave; di Bologna nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_comparse_studente2_studente2_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/501</guid>
+ <pubDate>Sab, 24 Nov 2012 12:57:59 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>3</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Studente Università del Basso Medioevo</title>
+ <description>Modelli 3D Studente Universit&amp;agrave; di Bologna nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_comparse_studente1b_studente1b_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/500</guid>
+ <pubDate>Sab, 24 Nov 2012 12:56:54 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>2</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Studente Università del Basso Medioevo</title>
+ <description>Modelli 3D Studente Universit&amp;agrave; di Bologna nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_comparse_studente1_studente1_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/499</guid>
+ <pubDate>Sab, 24 Nov 2012 12:55:29 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Aula lezione universitaria del Basso Medioevo</title>
+ <description>Modello 3D di un aula di lezione dell&amp;#39;Universit&amp;agrave; di nel periodo Basso Medioevo.
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_scene08_aulauniversita_aula_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/497</guid>
+ <pubDate>Sab, 24 Nov 2012 12:29:38 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Libro Università del Basso Medioevo</title>
+ <description>Modello 3D di un libro aperto in pergamena con capilettera miniati.
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_props_libro_studenti_libro_studenti_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/496</guid>
+ <pubDate>Sab, 24 Nov 2012 12:28:17 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Raschietto Università del Basso Medioevo</title>
+ <description>Modello 3D di un raschietto&amp;nbsp;utilizzato all&amp;#39;Universit&amp;agrave; nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_props_cancelleria_raschietto_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/495</guid>
+ <pubDate>Sab, 24 Nov 2012 12:26:25 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Pergamena Università del Basso Medioevo</title>
+ <description>Modello 3D di una pergamena dell&amp;#39;Universit&amp;agrave; in uso nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_props_cancelleria_pergamena.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/494</guid>
+ <pubDate>Sab, 24 Nov 2012 12:25:13 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Pennino Università di Bologna</title>
+ <description>Modello 3D di un pennino utilizzato all&amp;#39;Universit&amp;agrave; nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_props_cancelleria_pennino.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/493</guid>
+ <pubDate>Sab, 24 Nov 2012 12:23:19 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Calamaio Università del Basso Medioevo</title>
+ <description>Modello 3D di un calamaio utilizzato all&amp;#39;Universit&amp;agrave; nel Basso Medioevo
+</description>
+ <category>3D università</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/apa_library_props_cancelleria_calamaio_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/492</guid>
+ <pubDate>Sab, 24 Nov 2012 12:22:07 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente per sezione di censimento e luogo di nascita</title>
+ <description>I dati si riferiscono per ciascuna sezione di censimento alla popolazione residente a Bologna per luogo di nascita e sesso.
+Sono disponibili 3 dataset (popolazione totale, maschi e femmine).
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per individuare correttamente le aree di interesse clicca&amp;nbsp; qui
+</description>
+ <category>luogo di nascita</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/nascitasezioni_2011.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/487</guid>
+ <pubDate>Gio, 08 Nov 2012 18:14:17 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>3D Portici di San Luca</title>
+ <description>Raccolta di immagini 3D che descrivono i Portici del Santuario della Madonna di San Luca a Bologna.
+</description>
+ <category>3D monumenti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/3D_I_portici%20di%20San%20Luca_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/486</guid>
+ <pubDate>Mer, 07 Nov 2012 13:34:33 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Bilanci d&amp;#039;esercizio delle società ed enti partecipati dal Comune</title>
+ <description>Raccolta per anno dei bilanci d&amp;#39;esercizio delle societ&amp;agrave; ed enti partecipati dal Comune. Nel dataset corrispondente vengono mostrati il Conto Economico e lo Sato Patrimoniale delle societ&amp;agrave;&amp;nbsp;Atc, Autostazione, CAAB, Seribo, SRM.
+</description>
+ <category>società partecipate</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/bilanci_societa_partecipate_2011.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/485</guid>
+ <pubDate>Mer, 07 Nov 2012 12:27:47 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente per sezione di censimento e stato civile</title>
+ <description>I dati si riferiscono per ciascuna sezione di censimento alla popolazione residente a Bologna per stato civile e sesso.&amp;nbsp;
+Sono disponibili 3 dataset (popolazione totale, maschi e femmine).
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per individuare correttamente le aree di interesse &amp;egrave; necessario consultare il sito alla voce - Individua le sezioni sulle mappe o sullo stradario - clicca qui
+&amp;nbsp;
+</description>
+ <category>stato civile</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/statocivilesezioni_2011.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/479</guid>
+ <pubDate>Mer, 31 Ott 2012 10:19:37 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente per sezione di censimento ed età</title>
+ <description>I dati si riferiscono per ciascuna sezione di censimento alla popolazione residente a Bologna per classi quinquennali di et&amp;agrave; e sesso. &amp;nbsp;
+Sono disponibili 3 dataset (popolazione totale, maschi e femmine).
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+http://www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/sessoxetasezioni.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/478</guid>
+ <pubDate>Gio, 25 Ott 2012 09:34:30 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Emigrati stranieri per quartiere di provenienza</title>
+ <description>I dati si riferiscono per ciascuna circoscrizione amministrativa agli emigrati a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+http://www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm
+</description>
+ <category>emigrati</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/emigstr1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/449</guid>
+ <pubDate>Mer, 17 Ott 2012 14:54:50 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Cancellati dall&amp;#039;anagrafe per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; al complesso degli emigrati e cancellati d&amp;#39;ufficio a partire dal 1973.
+Per gli anni di censimento e per quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>emigrati</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/cancellati1973a2011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/446</guid>
+ <pubDate>Mer, 10 Ott 2012 13:33:56 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>3D modello di terreno dell&amp;#039;area di San Luca alla fine del &amp;#039;700</title>
+ <description>Modello digitale del terreno dell&amp;#39;area di San Luca come poteva essere alla fine del &amp;#39;700
+
+	&amp;nbsp;
+</description>
+ <category>3D paesaggio</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene15_SanLuca_Terreno_Terreno.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/444</guid>
+ <pubDate>Lun, 08 Ott 2012 19:27:06 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Immigrati stranieri per quartiere di destinazione</title>
+ <description>I dati si riferiscono per ciascuna circoscrizione amministrativa agli immigrati di cittadinanza straniera a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>immigrati</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/immxqre1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/442</guid>
+ <pubDate>Mar, 02 Ott 2012 14:15:33 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Parcheggi pubblici</title>
+ <description>Parcheggi pubblici
+</description>
+ <category>mobilità</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ParcPub.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/440</guid>
+ <pubDate>Mar, 02 Ott 2012 10:50:01 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Parchimetri</title>
+ <description>Parchimetri in formato cartografico
+</description>
+ <category>mobilità</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/parchimetri.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/438</guid>
+ <pubDate>Mar, 02 Ott 2012 10:42:26 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Edifici, portici e torri del centro di Bologna</title>
+ <description>Edifici, portici e torri del centro storico di Bologna in 3D, nel periodo del Basso Medioevo
+</description>
+ <category>3D paesaggio</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene09_BolognaMedievale_Portici_Portici.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/436</guid>
+ <pubDate>Mer, 26 Set 2012 14:55:35 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Vista su Piazza Maggiore in 3D</title>
+ <description>Vista su Piazza Maggiore verso la fine del &amp;#39;700&amp;nbsp;
+</description>
+ <category>3D paesaggio</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_shot_14_01.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/434</guid>
+ <pubDate>Mer, 26 Set 2012 14:48:12 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Iscritti in anagrafe per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; al complesso degli immigrati ed iscritti d&amp;#39;ufficio a partire dal 1973.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat. Per immigrati si intendono tutte le persone provenienti da altri comuni italiani e dall&amp;#39;estero.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>immigrati</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/iscrittianag1973a2011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/432</guid>
+ <pubDate>Mer, 26 Set 2012 09:12:49 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Procedimenti Amministrativi Quartieri</title>
+ <description>Procedimenti amministrativi del Quartiere. Contiene il numero dei procedimenti avviati con riferimento alla durata normata - pubblicata anche sul sito istituzionale del Comune - il numero dei procedimenti conclusi nei termini, fuori termine o scaduti e la loro durata media.
+</description>
+ <category>procedimenti amministrativi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Procedimenti%20Amministrativi%20Quartieri%20primo%20semestre%202011.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/430</guid>
+ <pubDate>Mer, 26 Set 2012 07:02:11 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente straniera per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della ciit&amp;agrave; ai residenti a Bologna&amp;nbsp;di cittadinanza straniera a partire dal 1986.&amp;nbsp;&amp;nbsp;
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni&amp;nbsp;clicca qui
+</description>
+ <category>stranieri residenti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popresstr1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/428</guid>
+ <pubDate>Gio, 20 Set 2012 17:21:52 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>3D Bologna del paesaggio collinare</title>
+ <description>Veduta a sud di Bologna del paesaggio collinare come poteva apparire verso la fine del &amp;#39;700. La vista stringe sul Santuario della Madonna di San Luca.
+</description>
+ <category>3D paesaggio</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_shot_15_01.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/426</guid>
+ <pubDate>Mer, 19 Set 2012 19:27:01 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Bologna turrita medievale</title>
+ <description>Inquadratura 3D della Bologna turrita medievale
+</description>
+ <category>3D paesaggio</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_shot_09_14.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/424</guid>
+ <pubDate>Mer, 19 Set 2012 19:08:18 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Piazza Maggiore</title>
+ <description>Modello&amp;nbsp;3D di Piazza Maggiore com&amp;#39;era alla fine del &amp;#39;700
+</description>
+ <category>3D piazze</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene14_BolognaSettecento_PiazzaMaggiore1700.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/403</guid>
+ <pubDate>Ven, 14 Set 2012 15:07:46 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Palazzo D&amp;#039;Accursio</title>
+ <description>Modello in 3D di&amp;nbsp;Palazzo D&amp;#39;Accursio com&amp;#39;era alla fine del &amp;#39;700
+</description>
+ <category>3D palazzi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene14_BolognaSettecento_PalazzoDAccursio_DAccursio_SalaBorsa.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/401</guid>
+ <pubDate>Ven, 14 Set 2012 14:50:42 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Morti residenti per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; al complesso degli immigrati ed iscritti d&amp;#39;ufficio a partire dal 1973.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+	Per immigrati si intendono tutte le persone provenienti da altri comuni italiani e dall&amp;#39;estero.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>mortalità</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/morti1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/399</guid>
+ <pubDate>Gio, 13 Set 2012 13:39:36 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>3D Palazzo de&amp;#039; Notai</title>
+ <description>&amp;nbsp;Palazzo de&amp;#39; Notai in 3D com&amp;#39;era alla fine del &amp;#39;700
+</description>
+ <category>3D palazzi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene14_BolognaSettecento_PalazzoDeiNotai_PalazzoNotai.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/393</guid>
+ <pubDate>Dom, 09 Set 2012 14:51:46 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Torri della Bologna Medievale</title>
+ <description>Torri della Bologna Medievale in 3D
+
+	
+		
+			
+			&amp;nbsp;
+	
+
+&amp;nbsp;
+</description>
+ <category>3D paesaggio</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene09_BolognaMedievale_Modelli_Procedurali_TorriCE.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/391</guid>
+ <pubDate>Sab, 08 Set 2012 12:39:36 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Due Torri</title>
+ <description>Modello 3D delle Due Torri a Bologna
+</description>
+ <category>3D monumenti</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene09_BolognaMedievale_Torri_torri.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/389</guid>
+ <pubDate>Sab, 08 Set 2012 11:53:02 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Nati vivi residenti per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai nati residenti a partire dal 1986. &amp;nbsp;
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>natalità</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/nativivi1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/387</guid>
+ <pubDate>Mer, 05 Set 2012 14:33:19 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>3D Piazza Santo Stefano</title>
+ <description>Modello in 3D di Piazza Santo Stefano nel corso del Basso Medioevo: alcune delle chiese, alcuni edifici, il terreno della piazza.
+</description>
+ <category>3D piazze</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene07_SantoStefano_PzzaSantoStefano_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/385</guid>
+ <pubDate>Mar, 04 Set 2012 11:27:44 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Palazzo Re Enzo</title>
+ <description>Modello 3D del Palazzo Re Enzo a Bologna
+</description>
+ <category>3D palazzi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene14_BolognaSettecento_PalazzoReEnzo_PalazzoReEnzo.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/382</guid>
+ <pubDate>Mar, 28 Ago 2012 16:30:11 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>3D Santuario della Madonna di San Luca</title>
+ <description>Modello 3D del Santuario della Madonna di San Luca a Bologna
+</description>
+ <category>3D basiliche e chiese</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/APA_library_scene15_SanLuca_Santuario_Santuario.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/380</guid>
+ <pubDate>Mar, 28 Ago 2012 15:34:01 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC BY-NC-SA 3.0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Famiglie residenti nel comune di Bologna per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; alle famiglie residenti nel comune di Bologna a partire dal 1986.
+Per gli anni di censimento e per quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>famiglie</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/famres1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/376</guid>
+ <pubDate>Gio, 23 Ago 2012 15:16:13 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente di 80 anni e oltre per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; di 80 anni e oltre a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_di_80_anni_e_oltre_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/374</guid>
+ <pubDate>Gio, 09 Ago 2012 11:55:00 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente di 65 anni e oltre per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna di 65 anni di et&amp;agrave; e oltre a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_di_65_anni_e_oltre_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/372</guid>
+ <pubDate>Gio, 09 Ago 2012 11:47:53 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente da 19 a 24 anni per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; da 19 a 24 anni a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_da_19_a_24_anni_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/370</guid>
+ <pubDate>Gio, 09 Ago 2012 11:34:28 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente da 14 a 18 anni per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; da 14 a 18 anni a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_da_14_a_18_anni_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/368</guid>
+ <pubDate>Gio, 09 Ago 2012 11:13:15 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente da 11 a 13 anni per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; da 11 a 13 anni a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_da_11_a_13_anni_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/366</guid>
+ <pubDate>Gio, 09 Ago 2012 10:32:18 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente da 6 a 10 anni per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; da 6 a 10 anni a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_da_6_a_10_anni_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/364</guid>
+ <pubDate>Gio, 09 Ago 2012 10:22:42 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente da 3 a 5 anni per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; da 3 a 5 anni a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_da_3_a_5_anni_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/362</guid>
+ <pubDate>Gio, 09 Ago 2012 10:13:07 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente da 0 a 2 anni per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; da 0 a 2 anni a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm 
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popolazione_residente_da_0_a_2_anni_per_zona_1986a2011_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/360</guid>
+ <pubDate>Mer, 08 Ago 2012 13:07:25 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>RUE - Disciplina dei materiali urbani e classificazione del territorio</title>
+ <description>
+	
+	
+
+Regolamento Urbanistico Edilizio &amp;ndash; Disciplina dei materiali urbani e classificazione del territorio
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/RUE_DMU_UTM-ED50_SHP_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/358</guid>
+ <pubDate>Mer, 25 Lug 2012 13:53:42 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2009</opendatacobo:coverage>
+</item>
+ <item> <title>RUE - La città storica. Ambiti e materiali</title>
+ <description>
+	
+	
+
+Regolamento Urbanistico Edilizio &amp;ndash; La citt&amp;agrave; storica. Ambiti e materiali
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/RUE_CST_UTM-ED50_SHP_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/356</guid>
+ <pubDate>Mer, 25 Lug 2012 13:50:00 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2009</opendatacobo:coverage>
+</item>
+ <item> <title>POC - Interventi urbanistici, edilizi, di valorizzazione commerciale</title>
+ <description>
+	
+	
+
+Piano Operativo Comunale &amp;ndash; Interventi urbanistici, edilizi, di valorizzazione commerciale
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/POC_IVC_UTM-ED50_SHP_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/354</guid>
+ <pubDate>Mer, 25 Lug 2012 13:38:00 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2009</opendatacobo:coverage>
+</item>
+ <item> <title>PSC - Situazioni</title>
+ <description>
+	
+	
+
+Piano Strutturale Comunale &amp;ndash; Situazioni &amp;ndash; Indirizzi e Schemi
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/PSC_SIT_UTM-ED50_SHP_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/352</guid>
+ <pubDate>Mer, 25 Lug 2012 13:01:05 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2008</opendatacobo:coverage>
+</item>
+ <item> <title>POC - Interventi per le dotazioni territoriali</title>
+ <description>
+	
+	
+
+Piano Operativo Comunale &amp;ndash; Interventi per le dotazioni territoriali
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/POC_IDT_UTM-ED50_SHP_1.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/350</guid>
+ <pubDate>Mer, 25 Lug 2012 12:40:11 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2009</opendatacobo:coverage>
+</item>
+ <item> <title>Numero iscritti ai servizi integrativi scolastici della scuola secondaria di 1° grado</title>
+ <description>
+	
+	
+
+Numero iscritti ai servizi integrativi scolastici della scuola secondaria di 1&amp;deg; grado
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Numero%20iscritti%20ai%20servizi%20integrativi%20scolastici%20scuola%20secondaria%20di%201%C2%B0%20grado%20a.s.%202012-2013_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/348</guid>
+ <pubDate>Ven, 20 Lug 2012 13:19:30 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Numero iscritti ai servizi integrativi scolastici della scuola primaria</title>
+ <description>
+	
+	
+
+Numero iscritti ai servizi integrativi scolastici della scuola primaria
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Numero%20iscritti%20ai%20servizi%20integrativi%20scolastici%20scuola%20primaria%20per%20a.s.%202012-2013_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/346</guid>
+ <pubDate>Ven, 20 Lug 2012 12:49:31 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Numero iscritti alle scuole dell’infanzia private</title>
+ <description>Numero iscritti alle scuole dell&amp;rsquo;infanzia private 
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Numero%20iscritti%20alle%20scuole%20dell%27infanzia%20private%20a.s.%202012-2013_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/344</guid>
+ <pubDate>Ven, 20 Lug 2012 12:06:15 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Numero iscritti alle scuole dell’infanzia pubbliche</title>
+ <description>
+	
+	
+
+Numero iscritti alle scuole dell&amp;rsquo;infanzia comunali e statali 
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Numero%20iscritti%20alle%20scuole%20dell%27infanzia%20pubbliche%20a.s.%202012-2013_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/342</guid>
+ <pubDate>Ven, 20 Lug 2012 11:43:42 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>N. iscritti ai servizi educativi, nidi</title>
+ <description>Numero iscritti ai servizi educativi, nidi,&amp;nbsp; al 30 giugno
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/N.%20iscritti%20ai%20servizi%20educativi%20a.e.%202012-2013_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/339</guid>
+ <pubDate>Gio, 19 Lug 2012 14:12:07 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Modalità di presentazione ISEE - statistiche</title>
+ <description>Numero dichiarazioni ISEE presentate on line e numero totale ISEE nell&amp;rsquo;anno solare
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Modalit%C3%A0%20di%20presentazione%20ISEE%20-%20statistiche%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/335</guid>
+ <pubDate>Mar, 17 Lug 2012 10:54:03 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Contabilità Analitica</title>
+ <description>Riepilogo del costo diretto e pieno di tutte le attivit&amp;agrave; e i servizi del Comune di Bologna classificati per settore, centro di costo, e attivit&amp;agrave;.
+Per maggiori informazioni clicca qui.
+</description>
+ <category>contabilità analitica</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/COAN%202011_3.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/331</guid>
+ <pubDate>Mer, 11 Lug 2012 14:25:18 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Frontier - La linea dello stile</title>
+ <description>
+	
+	
+
+mappa dei siti scelti nell&amp;#39;ambito del progetto frontier: tredici artisti dipingeranno opere di dimensione monumentale sui muri della citt&amp;agrave;
+</description>
+ <category>cultura</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Frontier%20-%20La%20linea%20dello%20stile.kml</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/326</guid>
+ <pubDate>Mar, 10 Lug 2012 14:44:13 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>agibilità e schede tecniche descrittive depositate</title>
+ <description>elenco delle agibilit&amp;agrave; e delle schede tecniche descrittive depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/agibilit%C3%A0%20e%20schede%20tecniche%20primo%20semestre%202012_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/324</guid>
+ <pubDate>Lun, 09 Lug 2012 14:45:13 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>depositi dei progetti esecutivi riguardanti le strutture</title>
+ <description>elenco dei depositi dei progetti esecutivi riguardanti le strutture
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Depositi%20sismici%20primo%20semestre%202012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/322</guid>
+ <pubDate>Lun, 09 Lug 2012 14:42:23 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Autorizzazioni sismiche rilasciate</title>
+ <description>elenco delle autorizzazioni sismiche rilasciate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/autorizzazioni%20sismiche%20rilasciate%20primo%20semestre%202012.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/320</guid>
+ <pubDate>Lun, 09 Lug 2012 14:39:49 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>CIL (comunicazioni di inizio lavori) depositate</title>
+ <description>elenco delle CIL (comunicazioni di inizio lavori) depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/CIL%20primo%20semestre%202012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/318</guid>
+ <pubDate>Lun, 09 Lug 2012 14:37:20 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>SCIA (segnalazioni certificate di inizio attività) depositate</title>
+ <description>elenco delle SCIA (segnalazioni certificate di inizio attivit&amp;agrave;) depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/SCIA%20primo%20semestre%202012_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/316</guid>
+ <pubDate>Lun, 09 Lug 2012 14:33:27 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>autorizzazioni paesaggistiche rilasciate</title>
+ <description>elenco autorizzazioni paesaggistiche rilasciate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/autorizzazioni%20paesaggistiche%20rilasciate%20primo%20semestre%202012_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/314</guid>
+ <pubDate>Lun, 09 Lug 2012 14:30:09 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Permessi di costruire rilasciati</title>
+ <description>elenco dei permessi di costruire rilasciati
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/PDC%20rilasciati%20primo%20semestre%202012_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/312</guid>
+ <pubDate>Lun, 09 Lug 2012 14:26:50 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>agibilità e schede tecniche descrittive depositate</title>
+ <description>elenco delle agibilit&amp;agrave; e delle schede tecniche descrittive depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Agibilit%C3%A0%20e%20schede%20tecniche%20descrittive%20anno%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/310</guid>
+ <pubDate>Ven, 06 Lug 2012 14:11:44 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>depositi dei progetti esecutivi riguardanti le strutture</title>
+ <description>elenco dei depositi dei progetti esecutivi riguardanti le strutture
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Depositi%20sismici%20anno%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/308</guid>
+ <pubDate>Ven, 06 Lug 2012 14:08:23 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Autorizzazioni sismiche rilasciate</title>
+ <description>elenco delle autorizzazioni sismiche rilasciate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Autorizzazioni%20sismiche%20anno%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/306</guid>
+ <pubDate>Ven, 06 Lug 2012 14:05:36 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>CIL (comunicazioni di inizio lavori) depositate</title>
+ <description>elenco delle CIL (comunicazioni di inizio lavori) depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/CIL%20anno%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/304</guid>
+ <pubDate>Ven, 06 Lug 2012 14:03:02 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>SCIA (segnalazioni certificate di inizio attività) depositate</title>
+ <description>elenco delle SCIA (segnalazioni certificate di inizio attivit&amp;agrave;) depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/DIA%20e%20SCIA%20anno%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/302</guid>
+ <pubDate>Ven, 06 Lug 2012 13:59:48 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>autorizzazioni paesaggistiche rilasciate</title>
+ <description>elenco autorizzazioni paesaggistiche rilasciate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Autorizzazioni%20paesaggistiche%20anno%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/300</guid>
+ <pubDate>Ven, 06 Lug 2012 13:55:40 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Permessi di costruire rilasciati</title>
+ <description>elenco dei permessi di costruire rilasciati
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/PDC%20anno%202011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/298</guid>
+ <pubDate>Ven, 06 Lug 2012 13:52:16 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Blasone Bolognese</title>
+ <description>&amp;nbsp;
+
+	
+		
+			
+				Il&amp;nbsp;Blasone bolognese, cio&amp;egrave;&amp;nbsp;Arme gentilizie di famiglie bolognesi, nobili, cittadinesche e aggregate, &amp;egrave; la pi&amp;ugrave; importante raccolta di stemmi, o pi&amp;ugrave; propriamente scudi, e cimieri dell&amp;#39;area bolognese.
+					L&amp;#39;opera, pubblicata a Bologna tra il 1791 e il 1795, venne concepita da&amp;nbsp;Floriano Canetoli, che si adoper&amp;ograve; personalmente nella raccolta degli stemmi, facendo richiesta alle varie famiglie nobili e &amp;lsquo;cittadine&amp;rsquo; bolognesi affinch&amp;eacute; gli trasmettessero l&amp;rsquo;arma e l&amp;rsquo;impresa, come si ricava dalla prefazione dell&amp;#39;abate Francesco Alessio Fiori (o Dal Fiore).
+					La raccolta &amp;egrave; costituita quasi interamente da tavole calcografiche contenenti 3623 stemmi, 1088 cimieri, 84 insegne, cornici e figure colorate a mano
+			
+		
+	
+
+&amp;nbsp;
+</description>
+ <category>cultura</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/blasone_bolognese.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/293</guid>
+ <pubDate>Gio, 05 Lug 2012 11:19:07 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>agibilità e schede tecniche descrittive depositate</title>
+ <description>elenco delle agibilit&amp;agrave; e delle schede tecniche descrittive depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Agibilit%C3%A0%20e%20schede%20tecniche%20descrittive%20anno%202010.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/291</guid>
+ <pubDate>Mer, 04 Lug 2012 15:54:30 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>depositi dei progetti esecutivi riguardanti le strutture</title>
+ <description>elenco dei depositi dei progetti esecutivi riguardanti le strutture
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Depositi%20sismici%20anno%202010.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/288</guid>
+ <pubDate>Mer, 04 Lug 2012 15:50:27 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>Autorizzazioni sismiche rilasciate</title>
+ <description>elenco delle autorizzazioni sismiche rilasciate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Autorizzazioni%20sismiche%20anno%202010.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/286</guid>
+ <pubDate>Mer, 04 Lug 2012 15:47:25 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>CIL (comunicazioni di inizio lavori) depositate</title>
+ <description>elenco delle CIL (comunicazioni di inizio lavori) depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/CIL%20anno%202010.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/284</guid>
+ <pubDate>Mer, 04 Lug 2012 15:45:08 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>SCIA (segnalazioni certificate di inizio attività) depositate</title>
+ <description>elenco delle SCIA (segnalazioni certificate di inizio attivit&amp;agrave;) depositate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/DIA%20anno%202010.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/282</guid>
+ <pubDate>Mer, 04 Lug 2012 15:41:00 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>autorizzazioni paesaggistiche rilasciate</title>
+ <description>elenco autorizzazioni paesaggistiche rilasciate
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Autorizzazioni%20paesaggistiche%20anno%202010_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/280</guid>
+ <pubDate>Mer, 04 Lug 2012 15:18:08 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>Permessi di costruire rilasciati</title>
+ <description>elenco dei permessi di costruire rilasciati
+</description>
+ <category>urbanistica edilizia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/PDC%20anno%202010.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/278</guid>
+ <pubDate>Mer, 04 Lug 2012 15:09:16 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente da 0 a 24 anni per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna in et&amp;agrave; da 0 a 24 anni a partire dal 1986. &amp;nbsp;
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39;Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+http://www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popres0_24_1986a2011_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/276</guid>
+ <pubDate>Mer, 04 Lug 2012 09:36:45 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Attestazioni ISEE - Servizi abitativi</title>
+ <description>Attestazioni Isee del nucleo familiare anagrafico presentate al Comune per l&amp;rsquo;accesso a servizi abitativi
+</description>
+ <category>servizi abitativi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ISEE_Servizi_Abitativi.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/273</guid>
+ <pubDate>Mar, 03 Lug 2012 17:48:26 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Attestazioni ISEE - Servizi scolastici</title>
+ <description>Attestazioni Isee del nucleo familiare anagrafico presentate al Comune per l&amp;rsquo;accesso a servizi scolatici o per la richiesta di tariffe agevolate.
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ISEE_Servizi_scolastici.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/272</guid>
+ <pubDate>Mar, 03 Lug 2012 17:47:43 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Gazzette Bolognesi</title>
+ <description>Il data base contiene le Gazzette Bolognesi possedute dalla Biblioteca dell&amp;#39;Archiginnasio. Questo tipo di pubblicazione periodica informava sui principali avvenimenti politico-militari, con notizie pervenute dalle pi&amp;ugrave; importanti citt&amp;agrave; italiane ed europee.
+	La Biblioteca possiede vari fascicoli della gazzetta di Bologna degli anni 1645, 1654, 1656, l&amp;#39;intera annata 1661, alcuni fascicoli del periodo 1674-1676 e la raccolta completa dal 1678 al 1796.
+	Sono stati digitalizzati 6670 fascicoli per un complessivo di circa 27.000 immagini.
+</description>
+ <category>cultura</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/gazzette_bolognesi_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/271</guid>
+ <pubDate>Mar, 03 Lug 2012 17:47:41 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Giulio Cesare Croce</title>
+ <description>La banca dati contiene tutte le 660 (circa) opere di Giulio Cesare Croce possedute dalla biblioteca dell&amp;#39;Archiginnasio. Le opere sono state interamente digitalizzate, nel dataset sono presenti i link assoluti alle immagini
+</description>
+ <category>cultura</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/croce_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/267</guid>
+ <pubDate>Mar, 03 Lug 2012 11:29:14 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Elenco scuole infanzia e bacini utenza</title>
+ <description>Elenco scuole dell&amp;#39;infanzia comunali, statali e bacino di utenza di appartenenza.
+Vedi anche il dataset&amp;nbsp;Bacini utenza scuole infanzia&amp;nbsp;
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Elenco%20scuole%20dell%27infanzia%20comunali%20e%20statali%20con%20bacino%20as%202012%202013.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/265</guid>
+ <pubDate>Mar, 26 Giu 2012 13:29:03 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Bilancio di previsione e piano esecutivo di gestione</title>
+ <description>Bilancio di previsione e piano esecutivo di gestione
+</description>
+ <category>bilancio di previsione</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Bilancio_2012_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/256</guid>
+ <pubDate>Mar, 26 Giu 2012 10:21:16 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Piste ciclopedonali</title>
+ <description>Piste ciclabili e percorsi pedonali in formato cartografico.
+</description>
+ <category>mobilità</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/CicloPedPub_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/247</guid>
+ <pubDate>Mar, 19 Giu 2012 08:55:42 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Bacini utenza scuole infanzia</title>
+ <description>I bacini di utenza sono zone del territorio in cui ogni Quartiere &amp;egrave; suddiviso che comprende una serie di scuole materne (comunali o statali), una scuola pu&amp;ograve; appartenere a pi&amp;ugrave; bacini.
+I cittadini hanno una priorit&amp;agrave; di accesso per le scuole del proprio bacino di utenza.
+Anche residenti in altri comuni (non limitrofi) sono equiparati ai residenti qualora lavorino nel Comune di Bologna, in questo caso il luogo di lavoro &amp;egrave; equiparato al luogo di residenza.
+Annualmente i Consigli di Quartiere definiscono i bacini in base al numero di bambini residenti che hanno diritto al servizio e alle capacit&amp;agrave; delle scuole.
+Le scuole convenzionate non sono soggette ai criteri di assegnazione definiti tramite i bacini di utenza.&amp;nbsp;
+&amp;nbsp;
+Vedi anche il dataset&amp;nbsp;Elenco scuole infanzia e bacini utenza
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/bacini_utenza_scuole-infanzia.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/245</guid>
+ <pubDate>Mer, 13 Giu 2012 19:12:31 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Redditi per area statistica</title>
+ <description>I dati si riferiscono, per ogni area statistica, ai redditi dei contribuenti bolognesi dichiarati nell&amp;#39;anno d&amp;#39;imposta.
+Le informazioni si riferiscono al numero contribuenti, al reddito imponibile ai fini irpef e al reddito imponibile ai fini dell&amp;#39;addizionale irpef.
+Elaborazione a cura del Dipartimento Programmazione.
+</description>
+ <category>redditi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Redditi_2009.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/242</guid>
+ <pubDate>Lun, 11 Giu 2012 18:39:18 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2009</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione residente per zona</title>
+ <description>I dati si riferiscono per ciascuna zona della citt&amp;agrave; ai residenti a Bologna a partire dal 1986.
+Per gli anni di censimento e quelli in cui si svolge la revisione anagrafica post-censuaria si fa riferimento ai dati dell&amp;#39; Anagrafe che possono non coincidere con quelli di fonte Istat.
+Per maggiori informazioni:
+http://www.comune.bologna.it/iperbole/piancont/dati_statistici/Indici/Popolazione/index.htm
+</description>
+ <category>struttura per sesso e per età</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/popres1986a2011_1.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/240</guid>
+ <pubDate>Mar, 05 Giu 2012 12:05:07 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Graduatoria per l&amp;#039;assegnazione di alloggi di Edilizia Residenziale Pubblica</title>
+ <description>Graduatoria per l&amp;#39;assegnazione di alloggi di Edilizia Residenziale Pubblica
+</description>
+ <category>servizi abitativi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/GRAD_ERP8_DEFINITIVA_OPENDATA.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/235</guid>
+ <pubDate>Lun, 07 Maggio 2012 12:05:00 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Aree coperte dal servizio Iperbole Wireless</title>
+ <description>Aree coperte dal servizio Iperbole Wireless
+</description>
+ <category>wifi pubblico</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Iperbole%20Wireless.kml</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/227</guid>
+ <pubDate>Gio, 05 Apr 2012 11:21:19 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Confine Comune di Bologna</title>
+ <description>Confine Comune di Bologna
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/confine.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/226</guid>
+ <pubDate>Gio, 05 Apr 2012 11:18:03 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Canalette (Limite salto acqua. Canale di scolo, canaletta irrigua)</title>
+ <description>Limite salto acqua. Canale di scolo, canaletta irrigua
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_canalette.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/224</guid>
+ <pubDate>Gio, 05 Apr 2012 11:15:38 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Arredo urbano (Linee descrittive di manufatti di arredo urbano, scale, gradonate e rampe. Limite di portico e galleria)</title>
+ <description>Linee descrittive di manufatti di arredo urbano, scale, gradonate e rampe. Limite di portico e galleria
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_arredourbano.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/222</guid>
+ <pubDate>Gio, 05 Apr 2012 11:10:36 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Aree verdi</title>
+ <description>Aree verdi
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/un_gest.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/216</guid>
+ <pubDate>Gio, 05 Apr 2012 10:33:59 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Siepi</title>
+ <description>Siepi
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/siepi.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/214</guid>
+ <pubDate>Gio, 05 Apr 2012 10:30:09 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Popolazione arborea (Boschi e popolamenti arborei)</title>
+ <description>Boschi e popolamenti arborei
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/pop_arb.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/212</guid>
+ <pubDate>Gio, 05 Apr 2012 10:27:36 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Arredo urbano in manutenzione (Arredi e strutture ludiche)</title>
+ <description>Arredo urbano in manutenzione. Arredi e strutture ludiche
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/arredo.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/210</guid>
+ <pubDate>Gio, 05 Apr 2012 10:19:25 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Aree per sgambatura cani</title>
+ <description>Aree per sgambatura cani
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/aree_cani.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/208</guid>
+ <pubDate>Gio, 05 Apr 2012 10:14:48 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Alberi (Esemplari arborei pubblici)</title>
+ <description>Esemplari arborei pubblici
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/alberi_0.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/206</guid>
+ <pubDate>Gio, 05 Apr 2012 10:11:41 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Albero isolato</title>
+ <description>Albero isolato
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_alberi.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/197</guid>
+ <pubDate>Mer, 04 Apr 2012 18:01:41 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Ciglio di massicciata ferroviario</title>
+ <description>Ciglio di massicciata ferroviario
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_cigliferrov.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/196</guid>
+ <pubDate>Mer, 04 Apr 2012 18:00:17 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Suolo (Limite di zona rocciosa o roccia isolata di grandi dimensioni. Limite di zona sabbiosa. Limite di area boscata o di coltivazione arborea. Ciglio di calanco o frana.)</title>
+ <description>Limite di zona rocciosa o roccia isolata di grandi dimensioni. Limite di zona sabbiosa. Limite di area boscata o di coltivazione arborea. Ciglio di calanco o frana.
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_usosuolo.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/195</guid>
+ <pubDate>Mer, 04 Apr 2012 17:56:22 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Strade (Ciglio di sede stradale asfaltata o gradinata. Ciglio di sede stradale non asfaltata. Ciglio di strada in costruzione. Ciglio di strada in galleria)</title>
+ <description>Ciglio di sede stradale asfaltata o gradinata. Ciglio di sede stradale non asfaltata. Ciglio di strada in costruzione. Ciglio di strada in galleria.
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_strade.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/194</guid>
+ <pubDate>Mer, 04 Apr 2012 17:47:51 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Sentieri (Ciglio o asse di percorso pedonale o ciclabile isolato - Sentiero)</title>
+ <description>Ciglio o asse di percorso pedonale o ciclabile isolato - Sentiero
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_sentieri.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/193</guid>
+ <pubDate>Mer, 04 Apr 2012 17:46:53 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Limite superiore di scarpata</title>
+ <description>Limite superiore di scarpata
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_scarpate.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/192</guid>
+ <pubDate>Mer, 04 Apr 2012 17:46:04 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Tratta di condotti per fluidi - Elettrodotti aerei</title>
+ <description>Tratta di condotti per fluidi - Elettrodotti aerei
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_reti.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/191</guid>
+ <pubDate>Mer, 04 Apr 2012 17:32:39 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Punto quotato isolato al suolo</title>
+ <description>Punto quotato isolato al suolo
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_pquotati.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/190</guid>
+ <pubDate>Mer, 04 Apr 2012 16:56:33 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Muri e recinzioni (Muro isolato, divisorio o di sostegno. Muri a secco, gabbionata di sostegno. Recinzione non in muratura.)</title>
+ <description>Muro isolato, divisorio o di sostegno. Muri a secco, gabbionata di sostegno. Recinzione non in muratura.
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_murirecinz.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/187</guid>
+ <pubDate>Mer, 04 Apr 2012 15:49:50 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Marciapiedi (Ciglio di marciapiede, elemento o aiuola sparti traffico)</title>
+ <description>Marciapiedi (Ciglio di marciapiede, elemento o aiuola sparti traffico)
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_marciapiedi.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/186</guid>
+ <pubDate>Mer, 04 Apr 2012 15:48:50 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Manufatti vari (Limite di corpo aggettante. Spallette di ponti di qualsiasi tipo. Imbocchi di gallerie stradali ferroviarie. Sostegno di elettrodotto aereo. Manufatti vari inerenti le acque)</title>
+ <description>Limite di corpo aggettante. Spallette di ponti di qualsiasi tipo. Imbocchi di gallerie stradali ferroviarie. Sostegno di elettrodotto aereo. Manufatti vari inerenti le acque
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_manufvari.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/184</guid>
+ <pubDate>Mer, 04 Apr 2012 15:44:57 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Idrografia (Corso o specchio acqua naturale o artificiale)</title>
+ <description>Corso o specchio acqua naturale o artificiale
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_idrografia.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/182</guid>
+ <pubDate>Mer, 04 Apr 2012 15:42:57 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Siepi, Filari di alberi</title>
+ <description>Siepi, Filari di alberi
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_filarisiepi.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/179</guid>
+ <pubDate>Mer, 04 Apr 2012 15:37:36 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Ferrovie (Tronco di ferrovia a scartamento ordinario, elettrificato. Tronco di ferrovia in galleria)</title>
+ <description>Tronco di ferrovia a scartamento ordinario, elettrificato. Tronco di ferrovia in galleria
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_ferrovie.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/178</guid>
+ <pubDate>Mer, 04 Apr 2012 15:36:10 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Edifici (Muro perimetrale di fabbricato in genere. Dividente volumetrica di fabbricati. Limite di tettoia o pensilina. Limite di baracca)</title>
+ <description>Muro perimetrale di fabbricato in genere. Dividente volumetrica di fabbricati Limite di tettoia o pensilina Limite di baracca
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_edifici.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/176</guid>
+ <pubDate>Mer, 04 Apr 2012 15:33:25 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Dividenti di terreno (Divisione permanente di terreno non altrimenti classificato. Divisione non materializzata del terreno per discontinuità di pavimentazione o superficie, ciglio di strada in disuso)</title>
+ <description>Divisione permanente di terreno non altrimenti classificato. Divisione non materializzata del terreno per discontinuit&amp;agrave; di pavimentazione o superficie, ciglio di strada in disuso
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_divterreno.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/174</guid>
+ <pubDate>Mer, 04 Apr 2012 15:28:19 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Curva di livello a 10 metri</title>
+ <description>Curva di livello a 10 metri
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/ctc_curvliv10.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/172</guid>
+ <pubDate>Mer, 04 Apr 2012 15:19:55 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Archi stradali</title>
+ <description>Archi stradali
+</description>
+ <category>toponomastica</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/arcstra.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/170</guid>
+ <pubDate>Mer, 04 Apr 2012 14:45:40 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Numerazione civica letterale</title>
+ <description>Numerazione civica letterale
+</description>
+ <category>toponomastica</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/civ_lett.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/168</guid>
+ <pubDate>Mer, 04 Apr 2012 14:43:57 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Numerazione civica</title>
+ <description>Numerazione civica
+</description>
+ <category>toponomastica</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/civici.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/166</guid>
+ <pubDate>Mer, 04 Apr 2012 14:35:46 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Elenco biblioteche comunali</title>
+ <description>Elenco biblioteche comunali con pc al pubblico
+</description>
+ <category>cultura</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Biblioteche_comune_con_pc_al_pubblico_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/162</guid>
+ <pubDate>Mer, 04 Apr 2012 12:00:54 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Aree statistiche</title>
+ <description>La suddivisione del territorio comunale in 90 aree statistiche risponde all&amp;rsquo;esigenza di definire una &amp;quot;griglia&amp;quot; di lettura pi&amp;ugrave; fine rispetto alla tradizionale suddivisione di Bologna in quartieri o zone e nello stesso tempo sufficientemente sintetica rispetto alla articolazione molto parcellizzata in sezioni di censimento.
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/aree_statistiche.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/160</guid>
+ <pubDate>Mar, 03 Apr 2012 14:46:19 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Opendata index</title>
+ <description>Opendata index
+</description>
+ <category>opendata index</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Sheet_1_crosstab.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/155</guid>
+ <pubDate>Mar, 03 Apr 2012 12:17:11 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Graduatoria per l&amp;#039;assegnazione di alloggi a canone calmierato -CALM</title>
+ <description>Graduatoria per l&amp;#39;assegnazione di alloggi a canone calmierato -CALM
+</description>
+ <category>servizi abitativi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/GRAD_CALM12_DEFINITIVA_OPENDATA_120328.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/149</guid>
+ <pubDate>Lun, 02 Apr 2012 11:02:23 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2012_2013.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/140</guid>
+ <pubDate>Ven, 30 Mar 2012 15:37:34 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2011_2012.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/139</guid>
+ <pubDate>Ven, 30 Mar 2012 15:36:37 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2010_2011.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/138</guid>
+ <pubDate>Ven, 30 Mar 2012 15:35:22 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2010</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2009_2010.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/137</guid>
+ <pubDate>Ven, 30 Mar 2012 15:30:35 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2009</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2008_2009.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/136</guid>
+ <pubDate>Ven, 30 Mar 2012 15:29:30 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2008</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2007_2008.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/135</guid>
+ <pubDate>Ven, 30 Mar 2012 15:27:46 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2007</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2006_2007.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/133</guid>
+ <pubDate>Ven, 30 Mar 2012 12:49:06 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2006</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2005_2006.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/132</guid>
+ <pubDate>Ven, 30 Mar 2012 12:46:20 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2005</opendatacobo:coverage>
+</item>
+ <item> <title>Domande di iscrizione ai Servizi Educativi</title>
+ <description>Domande di iscrizione ai Servizi Educativi
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Domande%20Servizi%20Educativi%20_2004_2005_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/130</guid>
+ <pubDate>Ven, 30 Mar 2012 12:15:56 +0200</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2004</opendatacobo:coverage>
+</item>
+ <item> <title>Sezioni di Censimento</title>
+ <description>Sezioni di Censimento
+</description>
+ <category>cartografia</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/sezioni.zip</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/128</guid>
+ <pubDate>Gio, 15 Mar 2012 12:30:14 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC-BY</opendatacobo:license>
+ <opendatacobo:coverage>2001</opendatacobo:coverage>
+</item>
+ <item> <title>Graduatoria per l&amp;#039;assegnazione di alloggi a canone calmierato -CALM</title>
+ <description>Graduatoria per l&amp;#39;assegnazione di alloggi a canone calmierato -CALM
+</description>
+ <category>servizi abitativi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/GRAD_CALM11_DEFINITIVA_COMPLETA_OPENDATA.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/126</guid>
+ <pubDate>Mer, 14 Mar 2012 13:54:11 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Graduatoria per l&amp;#039;assegnazione di alloggi di Edilizia Residenziale Pubblica</title>
+ <description>Graduatoria per l&amp;#39;assegnazione di alloggi di Edilizia Residenziale Pubblica
+</description>
+ <category>servizi abitativi</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/GRAD_ERP7_DEFINITIVA_COMPLETA_OPENDATA.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/124</guid>
+ <pubDate>Mar, 13 Mar 2012 09:49:37 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Stradario</title>
+ <description>Stradario
+</description>
+ <category>toponomastica</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/stradario.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/120</guid>
+ <pubDate>Ven, 09 Mar 2012 10:06:22 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+ <item> <title>Numero bambini iscritti alla scuole dell&amp;#039;infanzia private convenzionate</title>
+ <description>Numero bambini iscritti alla scuole dell&amp;#39;infanzia private convenzionate
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Numero%20Utenti%20Iscritti%20Scuola%20Infanzia%20Private%20as%202011%202012.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/81</guid>
+ <pubDate>Gio, 23 Feb 2012 16:43:23 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Numero bambini iscritti alla scuole dell&amp;#039;infanzia pubbliche</title>
+ <description>Numero bambini iscritti alle scuole dell&amp;#39;infanzia pubbliche
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/3.3%20Numero%20Utenti%20Iscritti%20Scuola%20Infanzia%20Pubblica%20as%202011%202012.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/79</guid>
+ <pubDate>Gio, 23 Feb 2012 16:35:37 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Elenco scuole</title>
+ <description>Elenco scuole
+&amp;nbsp;
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Elenco%20scuole%202011%202012_0.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/77</guid>
+ <pubDate>Gio, 23 Feb 2012 16:17:01 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2011</opendatacobo:coverage>
+</item>
+ <item> <title>Numero potenziali utenti prossimo bando scuola dell&amp;#039;infanzia</title>
+ <description>Numero potenziali utenti prossimo bando scuola dell&amp;#39;infanzia
+</description>
+ <category>servizi educativi - scolastici</category>
+ <enclosure>http://dati.comune.bologna.it/file/dataset/Potenziali%20Utenti%20Scuola%20Infanzia%20as%202012%202013.csv</enclosure>
+ <guid isPermaLink="true">http://dati.comune.bologna.it/node/75</guid>
+ <pubDate>Gio, 23 Feb 2012 16:12:29 +0100</pubDate>
+ <source url="http://dati.comune.bologna.it/tuttidati.xml">tuttidati</source>
+ <opendatacobo:version>1</opendatacobo:version>
+ <opendatacobo:license>CC0</opendatacobo:license>
+ <opendatacobo:coverage>2012</opendatacobo:coverage>
+</item>
+</channel>
+</rss>
